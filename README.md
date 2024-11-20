@@ -1,3 +1,4 @@
+![mermaid-diagram-2024-06-10-195349](https://github.com/user-attachments/assets/d7191d95-ab1c-4571-9cd1-fdc262bf78ee)
 ![Registration  Landing Page](https://github.com/user-attachments/assets/c6e513d6-1646-4cd8-8638-0501539fb28c)
 ![Registration Page](https://github.com/user-attachments/assets/09c409e0-a923-47d1-90de-05459c8335ad)
 ![Registration successful Page](https://github.com/user-attachments/assets/3c0da407-98e7-4690-b608-bff5d121ea6f)
