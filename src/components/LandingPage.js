@@ -21,6 +21,10 @@ const LandingPage = () => {
           Building a future of transparent, secure and accessible elections for
           all Nigerians
         </p>
+        <p>
+          Building a future of transparent, secure and accessible elections for
+          all Nigerians
+        </p>
         <button
           className="register-button"
           onClick={() => navigate("/register")}
